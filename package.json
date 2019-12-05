@@ -1,0 +1,14 @@
+{
+  "name": "scramble-score",
+  "version": "1.0.0",
+  "description": "scores a particular scrambling of a word",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Haider Tiwana",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
